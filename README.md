@@ -20,7 +20,9 @@
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/report-mpdf/main/Screenshots/Output.png)
+![](https://raw.githubusercontent.com/codehafeez/SendEmail-PHPMailer/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/SendEmail-PHPMailer/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/SendEmail-PHPMailer/main/Screenshots/Output-03.png)
 
 
 ## 🔗 www.codehafeez.com
